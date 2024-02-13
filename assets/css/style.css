@@ -1,0 +1,40 @@
+header {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+aside {
+    background-color: blue;
+}
+
+
+.photo {
+
+    width: 100px;
+    height: 100px;
+}
+
+.container {
+    position: relative;
+}
+
+.container img {
+    display: block;
+}
+
+.container .bi-heart-fill  {
+
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+
+}
+
+.btn {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
